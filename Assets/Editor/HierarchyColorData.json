@@ -1,0 +1,102 @@
+{
+    "colorEntries": [
+        {
+            "path": "Directional Light",
+            "color": {
+                "r": 0.050980377942323688,
+                "g": 0.3604694604873657,
+                "b": 0.5176470875740051,
+                "a": 1.0
+            },
+            "includeChildren": false,
+            "isExpanded": true,
+            "leftOffset": 0.0,
+            "rightOffset": 0.0,
+            "backgroundAlpha": 1.0,
+            "fontStyle": 1,
+            "useFontSize": true,
+            "fontSize": 15,
+            "useTextColor": true,
+            "textColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "borderMode": 0,
+            "borderColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "borderThickness": 2.0,
+            "cornerRadius": 12.0,
+            "badgeEnabled": false,
+            "badgeColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "badgeSize": 6.0,
+            "headerMode": false,
+            "headerLabel": "",
+            "useConditions": false,
+            "tagEquals": "",
+            "layerEquals": 0,
+            "componentTypeContains": "",
+            "nameRegex": ""
+        }
+    ],
+    "defaults": {
+        "path": "",
+        "color": {
+            "r": 0.20000000298023225,
+            "g": 0.6000000238418579,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "includeChildren": false,
+        "isExpanded": true,
+        "leftOffset": 0.0,
+        "rightOffset": 0.0,
+        "backgroundAlpha": 0.25,
+        "fontStyle": 0,
+        "useFontSize": false,
+        "fontSize": 0,
+        "useTextColor": false,
+        "textColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "borderMode": 1,
+        "borderColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "borderThickness": 2.0,
+        "cornerRadius": 0.0,
+        "badgeEnabled": false,
+        "badgeColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "badgeSize": 6.0,
+        "headerMode": false,
+        "headerLabel": "",
+        "useConditions": false,
+        "tagEquals": "",
+        "layerEquals": -1,
+        "componentTypeContains": "",
+        "nameRegex": ""
+    },
+    "presets": [],
+    "rules": []
+}
